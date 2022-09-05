@@ -11,7 +11,7 @@
 
 <a href="https://wlsdk7245.github.io"><img src="https://img.shields.io/badge/Tech Blog-222222?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href='https://www.instagram.com/wlsdk7245/'><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFBABA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlsdk7245&count_bg=%230E0F0E&title_bg=%23FFBCBC&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/>
 <br/>
